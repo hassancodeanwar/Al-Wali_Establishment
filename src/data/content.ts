@@ -300,8 +300,8 @@ export const content: Record<Locale, Content> = {
     contact: {
       title: 'اتصل بنا',
       subtitle: 'نحن هنا للإجابة على استفساراتكم وتلبية احتياجاتكم',
-      address: 'طريق الملك عبدالله، حي الرياض، المملكة العربية السعودية',
-      phone: '+966 12 345 6789',
+      address: 'وادي النطرون، البحيرة، مصر',
+      phone: '+20 01062784604',
       email: 'info@alwali.com',
       form: {
         name: 'الاسم',
@@ -512,8 +512,8 @@ export const content: Record<Locale, Content> = {
     contact: {
       title: 'Contact Us',
       subtitle: 'We are here to answer your inquiries and meet your needs',
-      address: 'King Abdullah Road, Riyadh District, Saudi Arabia',
-      phone: '+966 12 345 6789',
+      address: 'Wady El-Natroon, Bohaira, Egypt',
+      phone: '+20 01062784604',
       email: 'info@alwali.com',
       form: {
         name: 'Name',
