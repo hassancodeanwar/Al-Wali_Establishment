@@ -66,10 +66,3 @@ Contributions are welcome! If you have any ideas or suggestions, feel free to op
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Thanks to [StackBlitz](https://stackblitz.com/) for providing a cloud-based development environment.
-```
-
-This `README.md` explains the project, its purpose, technologies used, and how to get started. Let me know if you'd like further customization!
