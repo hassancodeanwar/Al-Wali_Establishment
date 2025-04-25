@@ -87,11 +87,14 @@ const ContactSection: React.FC = () => {
             {/* Map Preview */}
             <div className="mt-8 rounded-lg overflow-hidden h-[200px] bg-gray-200 dark:bg-gray-700">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d25018.125882196746!2d30.315017873051392!3d30.342490140685747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2seg!4v1745581860112!5m2!1sen!2seg" 
-                width="600" 
-                height="450" 
-                style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-              </iframe>
+                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d277.3446896307443!2d30.319112512578446!3d30.337396705804377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2seg!4v1745581618639!5m2!1sen!2seg" 
+                width="100%" 
+                height="200" 
+                style={{ border: 0 }} 
+                allowFullScreen 
+                loading="lazy" 
+                referrerPolicy="no-referrer-when-downgrade"
+              ></iframe>
             </div>
           </div>
         </div>
